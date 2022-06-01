@@ -1,2 +1,2 @@
 # Stock-Analyzer
-made by SHaun Wang, Jordyn Addesso, Nicholas Cimino
+made by Shaun Wang, Jordyn Addesso, Nicholas Cimino
